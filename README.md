@@ -14,7 +14,9 @@
      1----http://www.tuicool.com/articles/aMRbA3
 
      2----http://blog.csdn.net/fengbingchun/article/details/50638391
-     
+
+# linux下直接 make编译
+
 # VLFeat -- Vision Lab Features Library
 
 > Version 0.9.21
