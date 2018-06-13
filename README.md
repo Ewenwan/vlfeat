@@ -1,3 +1,20 @@
+# (一)VLFeat计算机视觉库的简介
+
+    1----VLFeat---是一个开源的计算机视觉库算法,和OpenCv相比来说，它是一个轻量级的计算机视觉库
+
+    2----VLFeat---这个开源BSD的计算机视觉库主要实现了 
+         SIFT,MSER, k-means, hierarchical k-means,
+         agglomerative information bottleneck, quick shift等算法。
+         由C语言编写,提供MATLAB接口，文档详细。支持跨平台。
+         
+    3----VLFeat计算机视觉库对于----做分类和识别----的特别有用
+
+# (二)VLFeat在VS下的配置
+
+     1----http://www.tuicool.com/articles/aMRbA3
+
+     2----http://blog.csdn.net/fengbingchun/article/details/50638391
+     
 # VLFeat -- Vision Lab Features Library
 
 > Version 0.9.21
